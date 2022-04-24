@@ -6,6 +6,10 @@ The following HTML were restructured to follow a semantic structure and to corre
 
 The CSS was also edited to reduce repeated code.
 
+Photo of updated website : ![](/Users/adamawartani/projects/CodeChallenge/assets/images/HORISEON.png)
+![] (/Users/adamawartani/projects/CodeChallenge/assets/images/HORISEON2.png)
+
 Website URL : https://awartani321.github.io/CodeChallenge/
+
 
 
